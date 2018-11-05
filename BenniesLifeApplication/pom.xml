@@ -10,7 +10,7 @@
   	</repository>
   </distributionManagement>
   	<scm>
-  		<connection>scm:git:git@github.com:8ennie/BenniesLife.git</connection>
+  		<connection>scm:git:https://github.com/8ennie/BenniesLife.git</connection>
   	  <tag>BenniesLifeApplication-0.0.1</tag>
   </scm>
   <dependencies>
